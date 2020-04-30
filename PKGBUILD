@@ -1,6 +1,6 @@
 pkgbase=bootsplash-themes
 pkgname=('bootsplash-theme-manjaro-splash')
-pkgver=1
+pkgver=r3.fb988d5
 pkgrel=1
 url="https://lists.freedesktop.org/archives/dri-devel/2017-December/160242.html"
 arch=('x86_64')
