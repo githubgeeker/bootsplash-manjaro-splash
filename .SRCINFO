@@ -1,0 +1,22 @@
+pkgbase = bootsplash-themes
+	pkgver = 1
+	pkgrel = 1
+	url = https://lists.freedesktop.org/archives/dri-devel/2017-December/160242.html
+	arch = x86_64
+	license = GPL
+	options = !libtool
+	options = !emptydirs
+	source = bootsplash-packer
+	source = bootsplash-manjaro-splash.sh
+	source = bootsplash-manjaro-splash.initcpio_install
+	source = spinner.gif
+	source = logo.png
+	sha256sums = SKIP
+	sha256sums = SKIP
+	sha256sums = SKIP
+	sha256sums = SKIP
+	sha256sums = SKIP
+
+pkgname = bootsplash-theme-manjaro-splash
+	pkgdesc = Bootsplash Theme with Splash
+
